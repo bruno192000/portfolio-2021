@@ -15,6 +15,9 @@
              <li>
                  <a href="#future">Plans for future</a>
              </li>
+             <li>
+                 <a href="#license">License</a>
+             </li>
 
 ## <h2 id="expect"><i> What to expect</i></h2>
  
@@ -58,6 +61,18 @@ And also the repo over <a href="https://github.com/bruno192000/Weather-Dashboard
 
 ## <h2 id="future"><i>Plans for future</i></h2>
 <p> As i learn new things in this course, you'll see updates and new styles on this portfolio. My final objective is to build a great portfolio that you can enjoy. It will take time but i'll try my best.
-Meanwhile you can see how is my porfotlio right now just clicking <a href="https://bruno192000.github.io/portfolio-2021/" target="_blank">here</p>
+Meanwhile you can see how is my porfotlio right now just clicking <a href="https://bruno192000.github.io/portfolio-2021/" target="_blank">here</a></p>
+
+## <h2 id="license"><i>License</i></h2>
+
+<p>MIT License
+
+Copyright (c) [2021] [Bruno Calderon]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</p>
 
        
