@@ -57,7 +57,7 @@ And also the repo over <a href="https://github.com/bruno192000/Weather-Dashboard
     <li><a href="https://github.com/bruno192000" target="_blank">Github</a></li>
     <li>My phone number: 6146959922</li>
     <li><a href="https://www.linkedin.com/in/bruno-calderon-espinoza-82366420a?trk=people-guest_people_search-card"target="_blank">Linkedin</a></li>
-     <li><a href="https://docs.google.com/document/d/1NaK6NxY3myjnGoNg8GfcU_hcT1J4NxSd9Rfwm-OWmcs/edit" target="_blank">My Resume</a></li>
+     <li><a href="./Resume Bruno Calderon.pdf" target="_blank">My Resume</a></li>
 
 ## <h2 id="future"><i>Plans for future</i></h2>
 <p> As i learn new things in this course, you'll see updates and new styles on this portfolio. My final objective is to build a great portfolio that you can enjoy. It will take time but i'll try my best.
