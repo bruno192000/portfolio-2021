@@ -25,7 +25,7 @@
 
 ## <h2 id="my-works"><i> My works</i></h2>
 <p> You'll be able to see my previous works <b>(until the date)</b></p>
-            <li><a href="#Quiz">Small Quiz</a>
+            <li><a href="#Bilingual">Get Bilingual</a>
              </li>
             <li>
                 <a href="#Weather">Weather Dashboard</a>
@@ -35,9 +35,9 @@
              </li>
 
 
-<h3 id= "Quiz">Small Quiz</h3>
-<p> <p>First homework is Small Quiz. As the name says, is a Quiz that will make you see how much you know about coding. If you want to try it just click <a href="https://bruno192000.github.io/Small-quiz/">HERE!</a> And also the repo over <a href="https://github.com/bruno192000/Small-quiz">HERE!</a> </p>
-<img src="./assets/images/quiz screen.jpeg" alt="Failed to load picture"></a></p>
+<h3 id= "Bilingual">Get Bilingual</h3>
+<p>An app that will help you learn a new language by communicating with other people. If you want to try it just click <a href="https://dry-river-69092.herokuapp.com/login">HERE!</a> And also the repo over <a href="https://github.com/bruno192000/project2">HERE!</a> </p>
+<img src="./assets/images/Screenshot (16).png" alt="Failed to load picture"></a></p>
 
 
 <h3 id= "Weather">Weather Dashboard</h3>

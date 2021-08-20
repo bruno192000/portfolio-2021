@@ -341,7 +341,7 @@ margin-bottom: 5px;
     display:flex ;}
     #contact{
         background-color:red}
-        #contact .cuerpo3,.Links-to-contact :{
+        #contact .cuerpo3,.Links-to-contact{
             font-size: 15px;
         display: flex;}
     #contact .Links-to-contact a{
