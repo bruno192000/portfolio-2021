@@ -58,6 +58,7 @@ And also the repo over <a href="https://github.com/bruno192000/Note-Taker-1.0">H
     <li>My phone number: 6146959922</li>
     <li><a href="https://www.linkedin.com/in/bruno-calderon-espinoza-82366420a?trk=people-guest_people_search-card"target="_blank">Linkedin</a></li>
      <li><a href="./Resume Bruno Calderon (1).pdf" target="_blank">My Resume</a></li>
+     <li><a href="./Resume Bruno Calderon (1).pdf" target="_blank">Resume Updated pdf link</a></li>
 
 ## <h2 id="future"><i>Plans for future</i></h2>
 <p> As i learn new things in this course, you'll see updates and new styles on this portfolio. My final objective is to build a great portfolio that you can enjoy. It will take time but i'll try my best.
