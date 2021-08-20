@@ -28,7 +28,7 @@
             <li><a href="#Bilingual">Get Bilingual</a>
              </li>
             <li>
-                <a href="#Weather">Weather Dashboard</a>
+                <a href="#Note">Note Taker</a>
             </li>
              <li>
                  <a href="#Party">Party Rama</a>
@@ -40,10 +40,10 @@
 <img src="./assets/images/Screenshot (16).png" alt="Failed to load picture"></a></p>
 
 
-<h3 id= "Weather">Weather Dashboard</h3>
-<p> Second homework is Weather Dashboard, a really helpfull "app" that will help you know the weather of the the citys and also the weather of the next 5 days. If you want to try it just click <a href="https://bruno192000.github.io/Weather-Dashboard/">HERE!</a> 
-And also the repo over <a href="https://github.com/bruno192000/Weather-Dashboard">HERE!</a></p>
-<img src="./assets/images/weather scree.jpeg" alt="Failed to load picture"></a></p>
+<h3 id= "Note">Note Taker</h3>
+<p> A helpfull note taker that will help you organize your plans or ideas. If you want to try it just click <a href="https://notetaker02.herokuapp.com/">HERE!</a> 
+And also the repo over <a href="https://github.com/bruno192000/Note-Taker-1.0">HERE!</a></p>
+<img src="./assets/images/Screenshot (9).png" alt="Failed to load picture"></a></p>
 
 
 <h3 id= "Party">Party Rama</h3>
@@ -57,7 +57,7 @@ And also the repo over <a href="https://github.com/bruno192000/Weather-Dashboard
     <li><a href="https://github.com/bruno192000" target="_blank">Github</a></li>
     <li>My phone number: 6146959922</li>
     <li><a href="https://www.linkedin.com/in/bruno-calderon-espinoza-82366420a?trk=people-guest_people_search-card"target="_blank">Linkedin</a></li>
-     <li><a href="./Resume Bruno Calderon.pdf" target="_blank">My Resume</a></li>
+     <li><a href="./Resume Bruno Calderon (1).pdf" target="_blank">My Resume</a></li>
 
 ## <h2 id="future"><i>Plans for future</i></h2>
 <p> As i learn new things in this course, you'll see updates and new styles on this portfolio. My final objective is to build a great portfolio that you can enjoy. It will take time but i'll try my best.
