@@ -1,7 +1,7 @@
 # My-portfolio-2021
 
 ## <h2>Description</h2>
-<p> This is my first time making a portfolio from scratch. As a begginer in this course, I tried to use all what i learned in my first 2 weeks.
+<p> This is my first time making a portfolio from scratch. As a begginer in this course, I tried to use all what i learned.
 </p>
  <li>
             <a href="#expect">What to expect</a>
@@ -21,7 +21,7 @@
 
 ## <h2 id="expect"><i> What to expect</i></h2>
  
- <p> In this portfolio you'll get some information about me, my previous works, how to contact me. But the most important: <strong>how much i've learned until this day (5/5/2021).</strong></p>
+ <p> In this portfolio you'll get some information about me, my previous works, how to contact me. But the most important: <strong>how much i've learned until this day (8/21/2021).</strong></p>
 
 ## <h2 id="my-works"><i> My works</i></h2>
 <p> You'll be able to see my previous works <b>(until the date)</b></p>
